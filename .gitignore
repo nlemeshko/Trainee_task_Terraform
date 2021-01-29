@@ -1,1 +1,8 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
 provider.tf
+.terraformrc
+terraform.rc
